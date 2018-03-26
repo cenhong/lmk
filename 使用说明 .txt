@@ -1,1 +1,4 @@
-Notepad++�ǳ���Ա�ر����ı��༭����֧��27�ֱ�����ԣ�Notepad++���İ�ͨ��C,C++ ,Java ,C#, XML, HTML, PHP,JS �ȣ���ȫ��ȡ��ϵͳ�ʼǱ�
+Notepad++是程序员必备的文本编辑器，支持27种编程语言，Notepad++中文版通吃C,C++ ,Java ,C#, XML, HTML, PHP,JS 等，完全可取代系统笔记本
+
+
+update  2018年3月26日 。。。。。。。。。。
